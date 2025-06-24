@@ -44,7 +44,7 @@ Analyze a suspicious email to identify phishing indicators and improve awareness
 ## 📁 Files in This Repo
 
 - `README.md` – This analysis report  
-- `phishing_sample.txt` – The copied sample phishing email content  
+- `phishing mail.txt` – The copied sample phishing email content  
 
 ---
 
